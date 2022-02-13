@@ -1,0 +1,20 @@
+{
+  "name": "crawler-nodejs",
+  "version": "1.0.0",
+  "description": "Javascript web crawler.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sfami/javascript-webcrawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sfami/javascript-webcrawler/issues"
+  },
+  "homepage": "https://github.com/Sfami/javascript-webcrawler#readme"
+}
